@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm 1tpp</h1>
 
+<img align="center" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">   
+
 <h3 align="left">Everyone know me as Panapat Pilapa. Also, call me “it” like a nickname. I’m a Software Developer at Devbuddy.co Currently focused on deliver a quality software and encourage people to become better developer. Not just writing the code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1tpp&label=Profile%20views&color=0e75b6&style=flat" alt="1tpp" /> </p>
