@@ -1,6 +1,6 @@
 ## About Me
 
-<h1 align="center">Hi 👋, I'm 1tpp</h1>
+<h1 align="center">Hi 👋, x</h1>
 
 <img align="center" src="https://stickershop.line-scdn.net/stickershop/v1/product/8025109/LINEStorePC/main.png;compress=true">   
 
