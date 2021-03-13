@@ -18,7 +18,7 @@
 
 - 📫 How to reach me: **contact@1tpp.com**
 
-- 📄 Know about my experiences: [https://www.1tpp.com/resume](https://www.1tpp.com/resume)
+- 📄 Know about my experiences: [https://www.1tpp.com/resume](www.1tpp.com/resume)
 
 - ⚡ Fun fact **I'm Hacker.**
 
