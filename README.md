@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm 1tpp</h1>
 
-<img align="center" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">   
+<img align="center" src="http://random.cat/">   
 
-<h3 align="left">Everyone know me as Panapat Pilapa. Also, call me “it” like a nickname. I’m a Software Developer at Devbuddy.co Currently focused on deliver a quality software and encourage people to become better developer. Not just writing the code</h3>
+<h3 align="left">Everyone know me as Panapat Pilapa. Also, call me “it” like a nickname. I’m a Software Developer Currently focused on deliver a quality software and encourage people to become better developer. Not just writing the code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1tpp&label=Profile%20views&color=0e75b6&style=flat" alt="1tpp" /> </p>
 
@@ -12,13 +12,9 @@
 
 - 🌱 I’m currently learning **Blockchain, Web Developement(fullstack), ML/AI**
 
-- 👯 I’m looking to collaborate on [Devbuddy Team](https://devbuddy.co/team)
-
-- 🤝 I’m looking for help with [www.1tpp.com/issues](https://1tpp.com/issues)
-
 - 👨‍💻 All of my projects are available at [www.1tpp.com/portfolio](https://www.1tpp.com/portfolio)
 
-- 📝 I regularly write articles on [www.1tpp.com/blogs](https://www.1tpp.com/blogs)
+- 📝 I regularly write articles on [www.blog.1tpp.com](https://www.blog.1tpp.com)
 
 - 📫 How to reach me: **contact@1tpp.com**
 
